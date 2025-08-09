@@ -63,3 +63,16 @@ routes/
     Run the application with php artisan serve
 
 Here, This is Sabbir Ahmed
+
+
+
+## 🖼 Screenshots
+
+### Home Page
+![Home Page](public/Assets/img/readme/image.png)
+
+### Registration Page
+![Registration Page](public/Assets/img/readme/image1.png)
+
+### Extra Page
+![Extra Page](public/Assets/img/readme/image2.png)
